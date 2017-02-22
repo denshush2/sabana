@@ -1,0 +1,13 @@
+.fff{
+color: grey;
+/*font-size:10px;*/
+}
+.seccionUno{
+border: 1px dashed red;
+}
+.seccionNueva{
+border: 3px double pink;
+}
+.colorseccionNueva{
+color: red;
+}
